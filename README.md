@@ -1,1 +1,1 @@
-# my_application
+# my_app
